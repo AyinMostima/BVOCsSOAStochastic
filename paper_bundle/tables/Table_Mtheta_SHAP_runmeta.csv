@@ -1,0 +1,5 @@
+Place,Model,Params,Groups,n_samples,n_features,RandomSeed,PDP_grid_1d,PDP_grid_2d,SHAP_max_points
+CM,XGB,"{""n_estimators"": 300, ""learning_rate"": 0.05, ""max_depth"": 4, ""subsample"": 0.85, ""colsample_bytree"": 0.85}",Holdout_80_20,1288,6,42,40,30,2000
+CM,RF,"{""n_estimators"": 400, ""max_depth"": null, ""min_samples_leaf"": 2}",Holdout_80_20,1288,6,42,40,30,2000
+JH,XGB,"{""n_estimators"": 300, ""learning_rate"": 0.05, ""max_depth"": 4, ""subsample"": 0.85, ""colsample_bytree"": 0.85}",Holdout_80_20,1399,6,42,40,30,2000
+JH,RF,"{""n_estimators"": 400, ""max_depth"": null, ""min_samples_leaf"": 2}",Holdout_80_20,1399,6,42,40,30,2000

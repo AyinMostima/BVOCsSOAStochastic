@@ -1,0 +1,12 @@
+backend : Agg
+font.family : sans-serif
+font.sans-serif : Helvetica Neue LT Pro, Helvetica, Arial, DejaVu Sans
+mathtext.fontset : custom
+mathtext.rm : Helvetica Neue LT Pro
+mathtext.it : Helvetica Neue LT Pro:italic
+mathtext.bf : Helvetica Neue LT Pro:bold
+mathtext.sf : Helvetica Neue LT Pro
+mathtext.default : regular
+text.usetex : False
+axes.unicode_minus : False
+savefig.dpi : 500
